@@ -1,0 +1,7 @@
+{
+	"port":9997,
+	"maxthread":100,
+	"username":"demo",
+	"password":"819480451",
+	"ALLOW_NO_AUTH":true
+}
